@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+body {
+    font-family: "Source Sans 3";
+    padding: 0 2rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+p,
+ul,
+ol {
+    margin-top: 0;
+}
+
+#primary-pic {
+    width: 400px;
+}
+
+.note {
+    background-color: #fffec8;
+    padding: 1rem;
+}
+
+.note i {
+    font-weight: bold;
+}
